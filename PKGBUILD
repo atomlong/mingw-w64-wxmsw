@@ -25,7 +25,7 @@ _architectures="i686-w64-mingw32 x86_64-w64-mingw32"
 
 # linking 64-bit shared libraries fails for me for an unknown reason, and I'm not sure if the problem is with compiler or my environment
 # uncomment the following line to skip building it, if needed
-# _skip_shared_64bit=aye
+_skip_shared_64bit=aye
 
 prepare() {
   cd "${srcdir}/wxWidgets-${pkgver}"
