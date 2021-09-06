@@ -2,7 +2,6 @@
 # Contributor: Schala
 
 pkgname=mingw-w64-wxmsw
-epoch=1
 pkgver=3.0.5.1
 pkgrel=2
 pkgdesc="Win32 implementation of wxWidgets API for GUI (mingw-w64)"

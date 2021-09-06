@@ -2,7 +2,6 @@ pkgbase = mingw-w64-wxmsw
 	pkgdesc = Win32 implementation of wxWidgets API for GUI (mingw-w64)
 	pkgver = 3.0.5.1
 	pkgrel = 2
-	epoch = 1
 	url = https://wxwidgets.org
 	arch = any
 	license = custom:wxWindows
